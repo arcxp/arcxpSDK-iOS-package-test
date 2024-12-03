@@ -69,9 +69,9 @@ extension String {
     }
     
     enum CheckSum {
-        static let arcXPsdk_CS = "0b1399dfaf50c6c88f3be4db0510b34fbdbf95acba1e9a4827a8d507e2ec0796"
-        static let googleAds_CS = "a53fd2cbb781e16807880524e26a7913a27952928e13d6bfb9a7c24232daa9aa"
-        static let omSDK_CS = "6dc1ac49b22ebb8b9b00f4ffdcb7cf9752dcfd8f0a683a18f121b000198e3a03"
-        static let palSDK_CS = "d53b69f75e70a4377034186144d243d4da0878629eea3dfece36c6cc76048e75"
+        static let arcXPsdk_CS = "ee3bbe79022b41318ad59419af74cf7c6d89e84a78bb338dcd83e71daf864009"
+        static let googleAds_CS = "dfacb197c2735454da431f62fb80c1d6cea4e530e5889d5737751beccafdf228"
+        static let omSDK_CS = "eb302c3edb1be87da8cb087f17a2931cb650faabbd453e3a1fdbe286af03da36"
+        static let palSDK_CS = "a7633c04a115a2a4752d1645e146a76bd5ea21cba8c0029867ee321cae7f5973"
     }
 }
